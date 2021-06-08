@@ -756,15 +756,6 @@ h1{
     margin-top: 5px;
 }
 
-.corvinal-box-ímpar #estudantes_corvinal{
-    float: left;
-    margin-top: 5px;
-    margin-left: 10px;
-    margin-right: 20px;
-    width: 14%;
-    border-radius: 20px;
-}
-
 .corvinal-box-par img{
     float: left;
     margin-right: 20px;
